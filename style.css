@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+    h1{
+        font-size: 50 px;
+    }
+    .orange-color{
+        color: rgb(245, 169, 28);
+    }
+    section{
+        display: flex;
+    }
+    .half-width{
+        width: 50%;
+    }
+
